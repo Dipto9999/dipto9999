@@ -56,7 +56,7 @@
     <a href = "mailto:dipto100@alum.ubc.ca">
         <img src = "https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dipto100@alum.ubc.ca" title = "Gmail Shield">
     </a>
-    <a href = "https://calendly.com/muntakim-rahman/15-minute-coffee-chat">
-        <img src = "https://img.shields.io/badge/Let's_Chat!-lightblue?style=for-the-badge&logo=Google Meet&logoColor=black&link=https://calendly.com/muntakim-rahman/15-minute-coffee-chat" title = "Google Meet Shield">
+    <a href = "https://calendly.com/muntakim-rahman">
+        <img src = "https://img.shields.io/badge/Let's_Chat!-lightblue?style=for-the-badge&logo=Google Meet&logoColor=black&link=https://calendly.com/muntakim-rahman" title = "Google Meet Shield">
     </a>
 </p>
