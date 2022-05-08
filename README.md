@@ -23,7 +23,7 @@
 
 # About Me 🧑‍💻
 
-<img align = "right" width = 125px height = 100px alt = "side_sticker" src = "Images/Circuit.gif"/>
+<img align = "right" width = 150px height = 100px alt = "side_sticker" src = "Images/Circuit.gif"/>
 
 🌐 I am a **Product Research Coordinator** at <a href = "https://www.geotab.com/">`Geotab Inc`</a>.</br>
 📡 I am an **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.</br>
