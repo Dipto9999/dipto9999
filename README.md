@@ -26,7 +26,7 @@
 <img align = "right" width = 150px height = 100px alt = "side_sticker" src = "Images/Circuit.gif"/>
 
 🌐 I am a **Product Research Coordinator** at <a href = "https://www.geotab.com/">`GEOTAB Inc`</a>.</br>
-📡 I am an **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.</br>
+📡 I am a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.</br>
 ⚡ I am an **Electrical Engineering Undergraduate** at the <a href = "https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/">`University of British Columbia`.</a></br>
 
 ## Ongoing Projects ⏳
