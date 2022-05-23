@@ -24,14 +24,11 @@
 
 # About Me 👦🏽🖥️
 
-<div align = "left">
-    <img align = "right" width = 150 height = 100 src = "Images/Circuit.gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 
 - 🌐  I am a **Product Research Coordinator** at <a href = "https://www.geotab.com/">`GEOTAB Inc`</a>.
 - 📡 I am a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.
 - ⚡ I am an **Electrical Engineering Undergraduate** at the <a href = "https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/">`University of British Columbia`</a>.
-
-</div>
 
 ## Ongoing Projects ⏳
 
