@@ -5,6 +5,7 @@
 
 <h2 align = "center">Embedded Systems | Data Science</h2>
 
+
 <!-- **Dipto9999/dipto9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align = "center">
@@ -25,7 +26,7 @@
 
 # About Me 👦🏽🖥️
 
-<img align = "right" src = "Images/Circuit_Board.jpg" width = 300 height = 200/>
+<img align = "right" src = "Images/Circuit_Board.jpg" width = 200 height = 150/>
 
 - 🌐  I am a **Product Research Coordinator** at <a href = "https://www.geotab.com/">`GEOTAB Inc`</a>.
 - 📡 I am a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.
