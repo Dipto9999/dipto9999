@@ -21,31 +21,34 @@
     <img src = "https://img.shields.io/badge/Google_Analytics-crimson?style=for-the-badge&logo=Google Analytics&logoColor=white" title = "Google Analytics Shield">
 </p>
 
-<img align = "right" width = 150 height = 100 src = "Images/Circuit.gif"/>
 
 # About Me 👦🏽🖥️
 
-🌐  I am a **Product Research Coordinator** at <a href = "https://www.geotab.com/">`GEOTAB Inc`</a>.</br>
-📡 I am a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.</br>
-⚡ I am an **Electrical Engineering Undergraduate** at the <a href = "https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/">`University of British Columbia`</a>.</br>
+<div>
+    <img align = "right" width = 150 height = 100 src = "Images/Circuit.gif"/>
+</div>
+
+- 🌐  I am a **Product Research Coordinator** at <a href = "https://www.geotab.com/">`GEOTAB Inc`</a>.
+- 📡 I am a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.
+- ⚡ I am an **Electrical Engineering Undergraduate** at the <a href = "https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/">`University of British Columbia`</a>.
 
 
 ## Ongoing Projects ⏳
 
-↻ [**Stocks Portfolio**](https://github.com/Dipto9999/Stock_Price_Correlations)</br>
-↻ [**Electrical Company**](https://github.com/Dipto9999/Electrical_Company)</br>
-↻ **CubeSat Telemetry Subsystem**</br>
+- ↻ [**Stocks Portfolio**](https://github.com/Dipto9999/Stock_Price_Correlations)
+- ↻ [**Electrical Company**](https://github.com/Dipto9999/Electrical_Company)
+- ↻ **CubeSat Telemetry Subsystem**
 
 ## Reads 📚
 
-📖 [**Lean Customer Development**](https://books.google.ca/books?id=zE4zDwAAQBAJ) by **Cindy Alvarez**
+- 📖 [**Lean Customer Development**](https://books.google.ca/books?id=zE4zDwAAQBAJ) by **Cindy Alvarez**
 
 
 ## What Else? ✨
 
-📈 **Stock Trading**</br>
-🏋️‍♂️ **Strength Training**</br>
-⚽ **Soccer**</br>
+- 📈 **Stock Trading**
+- 🏋️‍♂️ **Strength Training**
+- ⚽ **Soccer**
 
 <p align = "left">
     <a href = "https://www.linkedin.com/in/muntakim-rahman/">
