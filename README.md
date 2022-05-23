@@ -24,7 +24,7 @@
 
 # About Me 👦🏽🖥️
 
-<div>
+<div align = "right">
     <img align = "right" width = 150 height = 100 src = "Images/Circuit.gif"/>
 </div>
 
