@@ -21,9 +21,9 @@
     <img src = "https://img.shields.io/badge/Google_Analytics-crimson?style=for-the-badge&logo=Google Analytics&logoColor=white" title = "Google Analytics Shield">
 </p>
 
-# About Me 👦🏽🖥️
-
 <img align = "right" width = 150 height = 100 src = "Images/Circuit.gif"/>
+
+# About Me 👦🏽🖥️
 
 🌐  I am a **Product Research Coordinator** at <a href = "https://www.geotab.com/">`GEOTAB Inc`</a>.</br>
 📡 I am a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.</br>
