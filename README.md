@@ -24,19 +24,22 @@
 # About Me 🧑‍💻
 
 <img align = "right" width = 150 height = 100 src = "Images/Circuit.gif"/>
-🌐 I am a **Product Research Coordinator** at <a href = "https://www.geotab.com/">GEOTAB Inc</a>.</br>
-📡 I am a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">ALEASAT Project</a>.</br>
-⚡ I am an **Electrical Engineering Undergraduate** at the <a href = "https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/">`University of British Columbia`.</a></br>
+
+- 🌐  I am a **Product Research Coordinator** at <a href = "https://www.geotab.com/">`GEOTAB Inc`</a>.</br>
+- 📡 I am a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.</br>
+- ⚡ I am an **Electrical Engineering Undergraduate** at the <a href = "https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/">`University of British Columbia`</a>.</br>
+
+
 
 ## Ongoing Projects ⏳
 
-↻ [**Stocks Portfolio**](https://github.com/Dipto9999/Stock_Price_Correlations)</br>
-↻ [**Electrical Company**](https://github.com/Dipto9999/Electrical_Company)</br>
-↻ **CubeSat Telemetry Subsystem**</br>
+- ↻ [**Stocks Portfolio**](https://github.com/Dipto9999/Stock_Price_Correlations)</br>
+- ↻ [**Electrical Company**](https://github.com/Dipto9999/Electrical_Company)</br>
+- ↻ **CubeSat Telemetry Subsystem**</br>
 
 ## Reads 📚
 
-📖 [**Lean Customer Development**](https://books.google.ca/books?id=zE4zDwAAQBAJ) by **Cindy Alvarez**
+- 📖 [**Lean Customer Development**](https://books.google.ca/books?id=zE4zDwAAQBAJ) by **Cindy Alvarez**
 
 
 ## What Else? ✨
