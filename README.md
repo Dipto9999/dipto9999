@@ -48,11 +48,11 @@
     <a href = "https://www.linkedin.com/in/muntakim-rahman/">
         <img src = "https://img.shields.io/badge/Muntakim_Rahman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muntakim-rahman/" title = "Linkedin Shield">
     </a>
+    <a href = "https://www.goodreads.com/user/show/153601337-muntakim-rahman">
+        <img src = "https://img.shields.io/badge/Reads-orange?style=for-the-badge&logo=Goodreads&logoColor=black&link=https://www.goodreads.com/user/show/153601337-muntakim-rahman" title = "Goodreads">
+    </a>
     <a href = "https://www.instagram.com/dipto9999/">
         <img src = "https://img.shields.io/badge/Dipto9999-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dipto9999/" title = "Instagram Shield">
-    </a>
-    <a href = "https://www.goodreads.com/user/show/153601337-muntakim-rahman">
-        <img src = "https://img.shields.io/badge/Reads!-orange?style=for-the-badge&logo=Goodreads&logoColor=black&link=https://www.goodreads.com/user/show/153601337-muntakim-rahman" title = "Goodreads">
     </a>
     <a href = "mailto:dipto100@alum.ubc.ca">
         <img src = "https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dipto100@alum.ubc.ca" title = "Gmail Shield">
