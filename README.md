@@ -38,12 +38,6 @@
 - ↻ [**Electrical Company**](https://github.com/Dipto9999/Electrical_Company)
 - ↻ **CubeSat Telemetry Subsystem**
 
-## Reads 📚
-
-- 📖 [**Lean Customer Development**](https://books.google.ca/books?id=zE4zDwAAQBAJ) by **Cindy Alvarez**
-- 📖 [**Working Backwards: Insights, Stories, and Secrets from Inside Amazon**](https://www.amazon.ca/Working-Backwards-Insights-Stories-Secrets/dp/1250267595) by **Colin Bryar and Bill Carr**
-
-
 ## What Else? ✨
 
 - 📈 **Stock Trading**
@@ -56,6 +50,9 @@
     </a>
     <a href = "https://www.instagram.com/dipto9999/">
         <img src = "https://img.shields.io/badge/Dipto9999-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dipto9999/" title = "Instagram Shield">
+    </a>
+    <a href = "https://www.goodreads.com/user/show/153601337-muntakim-rahman">
+        <img src = "https://img.shields.io/badge/Reads!-orange?style=for-the-badge&logo=Goodreads&logoColor=black&link=https://www.goodreads.com/user/show/153601337-muntakim-rahman" title = "Goodreads">
     </a>
     <a href = "mailto:dipto100@alum.ubc.ca">
         <img src = "https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dipto100@alum.ubc.ca" title = "Gmail Shield">
