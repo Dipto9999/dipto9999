@@ -34,7 +34,7 @@
 
 ## Ongoing Projects ⏳
 
-- ↻ [**Stocks Portfolio**](https://github.com/Dipto9999/Stock_Price_Correlations)
+- ↻ [**Stock Portfolio**](https://github.com/Dipto9999/Stock_Price_Correlations)
 - ↻ [**Electrical Company**](https://github.com/Dipto9999/Electrical_Company)
 - ↻ **CubeSat Telemetry Subsystem**
 
