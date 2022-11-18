@@ -28,15 +28,14 @@
 
 <img align = "right" src = "Images/Circuit_Board.jpg" width = 200 height = 150/>
 
-- 🌐  I am a **Product Coordinator** at <a href = "https://www.geotab.com/">`GEOTAB Inc`</a>.
-- 📡 I am a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.
+- 🌐  I was a **Product Coordinator** at <a href = "https://www.geotab.com/">`GEOTAB Inc`</a>.
+- 📡 I was a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.
 - ⚡ I am an **Electrical Engineering Undergraduate** at the <a href = "https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/">`University of British Columbia`</a>.
 
 ## Ongoing Projects ⏳
 
 - ↻ [**Stock Portfolio**](https://github.com/Dipto9999/Stock_Price_Correlations)
 - ↻ [**Electrical Company**](https://github.com/Dipto9999/Electrical_Company)
-- ↻ **CubeSat Telemetry Subsystem**
 
 ## What Else? ✨
 
