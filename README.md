@@ -30,7 +30,7 @@
 
 - 🔋 I am an **Applications Engineering Intern** at <a href = "https://www.tesla.com/en_eu/megapack">`TESLA Inc`</a>.
 - 🌐  I was a **Product Coordinator Intern** at <a href = "https://www.geotab.com/">`GEOTAB Inc`</a>.
-- 📡 I was a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.
+- 🛰️ I was a **Satellite Firmware Developer** on the <a href = "https://www.ubcorbit.com/">`ALEASAT Project`</a>.
 - ⚡ I am an **Electrical Engineering Undergraduate** at the <a href = "https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/">`University of British Columbia`</a>.
 
 ## Ongoing Projects ⏳
@@ -40,7 +40,7 @@
 
 ## What Else? ✨
 
-- 📈 **Stock Trading**
+- 📈 **Stock Investing**
 - 🏋️‍♂️ **Strength Training**
 - ⚽ **Soccer**
 
