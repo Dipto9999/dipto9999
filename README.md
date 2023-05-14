@@ -5,12 +5,12 @@
 <!-- **Dipto9999/dipto9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python Shield">
-    <img src="https://img.shields.io/badge/SQL-FF9900?style=for-the-badge&logo=sqlite&logoColor=white" title="SQL Shield">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" title="Go Shield">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" title="C Shield">
-    <img src="https://img.shields.io/badge/ASM-00498C?style=for-the-badge&logo=Arm&logoColor=white" title="ASM Shield">
-    <img src="https://img.shields.io/badge/Verilog-0078D7?style=for-the-badge&logo=IEEE&logoColor=white" title="Verilog Shield">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python">
+    <img src="https://img.shields.io/badge/SQL-FF9900?style=for-the-badge&logo=sqlite&logoColor=white" title="SQL">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" title="Golang">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" title="C">
+    <img src="https://img.shields.io/badge/ASM-00498C?style=for-the-badge&logo=Arm&logoColor=white" title="ASM">
+    <img src="https://img.shields.io/badge/Verilog-0078D7?style=for-the-badge&logo=IEEE&logoColor=white" title="Verilog">
 </p>
 
 <p align="center">
