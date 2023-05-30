@@ -37,7 +37,6 @@ My name is Muntakim. I'm passionate about creating innovative solutions that com
 
 ## Ongoing Projects ⏳
 
-- ↻ [**Baccarat Card Game**](https://github.com/Dipto9999/Baccarat_Card_Game)
 - ↻ [**Stock Portfolio**](https://github.com/Dipto9999/Stock_Price_Correlations)
 - ↻ [**Electrical Company**](https://github.com/Dipto9999/Electrical_Company)
 
