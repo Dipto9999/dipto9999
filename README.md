@@ -1,6 +1,6 @@
 # Hello! Welcome to my GitHub! 🙋🏽‍♂️
 
-[![Header](Images/Muntakim_Canva.png "Header")](https://www.linkedin.com/in/muntakim-rahman/)
+[![Header](Images/Banner_2024.png "Header")](https://www.linkedin.com/in/muntakim-rahman/)
 
 <!-- **Dipto9999/dipto9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
