@@ -29,7 +29,7 @@ My name is Muntakim. I'm passionate about creating innovative solutions that com
 
 ### Experience and Education
 
-- 🔋 Recently worked as an **Applications Engineering Intern** at [TESLA Inc](https://www.tesla.com/en_eu/megapack).
+- 🔋 Currently working as a **Software Applications Engineering Intern** at [TESLA Inc](https://www.tesla.com/en_eu/megapack).
 - 🌐 Previously worked as a **Product Coordinator Intern** at [GEOTAB Inc](https://www.geotab.com/).
 - 🛰️ Contributed as a **Satellite Firmware Developer** on the [ALEASAT Project](https://www.ubcorbit.com/).
 - ⚡ Pursuing a degree in **Electrical Engineering** at the [University of British Columbia](https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/).
@@ -51,7 +51,7 @@ My name is Muntakim. I'm passionate about creating innovative solutions that com
     <a href="https://www.linkedin.com/in/muntakim-rahman/">
         <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muntakim-rahman/" title="Linkedin">
     </a>
-    <a href="https://twitter.com/Muntakim9999">
+    <a href="https://twitter.com/Dipto9999">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Muntakim9999" title="Twitter">
     </a>
     <a href="https://devpost.com/Dipto9999">
