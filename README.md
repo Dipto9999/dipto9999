@@ -48,17 +48,17 @@ My name is Muntakim and I'm passionate about developing innovative technologies 
 ## Connect with Me 🤝
 
 <p align = "center">
-    <a href="https://www.linkedin.com/in/muntakim-rahman/">
-        <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muntakim-rahman/" title="Linkedin">
-    </a>
-    <a href="https://twitter.com/Dipto9999">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Muntakim9999" title="Twitter">
-    </a>
     <a href="https://devpost.com/Dipto9999">
         <img src="https://img.shields.io/badge/Devpost-440099?style=for-the-badge&logo=devpost&logoColor=white&link=https://devpost.com/Dipto9999" title="Devpost">
     </a>
+    <a href="https://www.linkedin.com/in/muntakim-rahman/">
+        <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muntakim-rahman/" title="Linkedin">
+    </a>
     <a href="https://www.goodreads.com/user/show/153601337-muntakim-rahman">
         <img src="https://img.shields.io/badge/GoodReads-F05032?style=for-the-badge&logo=Goodreads&logoColor=white&link=https://www.goodreads.com/user/show/153601337-muntakim-rahman" title="Goodreads">
+    </a>
+    <a href="https://twitter.com/Dipto9999">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Muntakim9999" title="Twitter">
     </a>
     <a href="https://www.instagram.com/dipto9999/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dipto9999/" title="Instagram">
