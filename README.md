@@ -49,24 +49,24 @@ My name is Muntakim and I'm passionate about developing innovative technologies 
 
 <p align = "center">
     <a href="https://devpost.com/Dipto9999">
-        <img src="https://img.shields.io/badge/Devpost-440099?style=for-the-badge&logo=devpost&logoColor=white&link=https://devpost.com/Dipto9999" title="Devpost">
+        <img src="https://img.shields.io/badge/Devpost-440099?style=for-the-badge&logo=devpost&logoColor=white&link=https://devpost.com/Dipto9999" title="Devpost" style="border: 1px solid #000000; margin: 10px;">
     </a>
     <a href="https://www.linkedin.com/in/muntakim-rahman/">
-        <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muntakim-rahman/" title="Linkedin">
+        <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muntakim-rahman/" title="Linkedin" style="border: 1px solid #000000; margin: 10px;">
     </a>
     <a href="https://www.goodreads.com/user/show/153601337-muntakim-rahman">
-        <img src="https://img.shields.io/badge/GoodReads-F05032?style=for-the-badge&logo=Goodreads&logoColor=white&link=https://www.goodreads.com/user/show/153601337-muntakim-rahman" title="Goodreads">
+        <img src="https://img.shields.io/badge/GoodReads-F05032?style=for-the-badge&logo=Goodreads&logoColor=white&link=https://www.goodreads.com/user/show/153601337-muntakim-rahman" title="Goodreads" style="border: 1px solid #000000; margin: 10px;">
     </a>
     <a href="https://twitter.com/Dipto9999">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Muntakim9999" title="Twitter">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Muntakim9999" title="Twitter" style="border: 1px solid #000000; margin: 10px;">
     </a>
     <a href="https://www.instagram.com/dipto9999/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dipto9999/" title="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dipto9999/" title="Instagram" style="border: 1px solid #000000; margin: 10px;">
     </a>
     <a href="mailto:dipto100@alum.ubc.ca">
-        <img src="https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dipto100@alum.ubc.ca" title="Gmail">
+        <img src="https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dipto100@alum.ubc.ca" title="Gmail" style="border: 1px solid #000000; margin: 10px;">
     </a>
     <a href="https://calendly.com/muntakim-rahman">
-        <img src="https://img.shields.io/badge/Let's_Chat!-4285F4?style=for-the-badge&logo=Google%20Meet&logoColor=white&link=https://calendly.com/muntakim-rahman" title="Google Meet">
+        <img src="https://img.shields.io/badge/Let's_Chat!-4285F4?style=for-the-badge&logo=Google%20Meet&logoColor=white&link=https://calendly.com/muntakim-rahman" title="Google Meet" style="border: 1px solid #000000; margin: 10px;">
     </a>
 </p>
