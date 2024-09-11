@@ -23,14 +23,10 @@
 
 ## About Me
 
-<div style="display: flex; align-items: center;">
-    <div style="margin-left: 20px;"/>
-        <p>My name is Muntakim and I'm passionate about developing innovative technologies that integrate software and hardware. My experiences are in data science and embedded systems; I love working on projects that leverage the intersection of these fields!</p>
-    </div>
-    <div style="align-items: center; margin-left: 20px;">
-        <img src="Images/Circuit_Board.jpg" width="200" height="150"/>
-    </div>
-</div>
+
+My name is Muntakim and I'm passionate about developing innovative technologies that integrate software and hardware. My experiences are in data science and embedded systems; I love working on projects that leverage the intersection of these fields!
+
+<img align = "right" src = "Images/Circuit_Board.jpg" width = 200 height = 150/>
 
 ### Experience and Education
 
