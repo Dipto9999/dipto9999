@@ -24,17 +24,17 @@
 ## About Me
 
 <div style="display: flex; align-items: center;">
-    <div>
+    <div style="margin-left: 20px;"/>
         <p>My name is Muntakim and I'm passionate about developing innovative technologies that integrate software and hardware. My experiences are in data science and embedded systems; I love working on projects that leverage the intersection of these fields!</p>
     </div>
     <div>
-        <img src="Images/Circuit_Board.jpg" width="200" height="150" style="margin-left: 20px;"/>
+        <img src="Images/Circuit_Board.jpg" width="200" height="150" style=" align-items: center; margin-left: 20px;"/>
     </div>
 </div>
 
 ### Experience and Education
 
-- 🔋 Recently worked as a **Software Applications</br> Engineering Intern** at [TESLA, Inc](https://www.tesla.com/en_eu/megapack).
+- 🔋 Recently worked as a **Software Applications Engineering Intern** at [TESLA, Inc](https://www.tesla.com/en_eu/megapack).
 - 🌐 Previously worked as a **Product Coordinator Intern** at [GEOTAB, Inc](https://www.geotab.com/).
 - 🛰️ Contributed as a **Satellite Firmware Developer** on the [ALEASAT Project](https://www.ubcorbit.com/).
 - ⚡ Pursuing a degree in **Electrical Engineering** at the [University of British Columbia](https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/).
