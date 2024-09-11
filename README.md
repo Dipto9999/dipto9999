@@ -23,7 +23,7 @@
 
 ## About Me
 
-<img align = "right" src = "Images/Circuit_Board.jpg" width = 200 height = 150/>
+<img align="right" src="Images/Circuit_Board.jpg" width="200" height="150"/>
 
 My name is Muntakim and I'm passionate about developing innovative technologies that integrate software and hardware. My experiences are in data science and embedded systems; I love working on projects that leverage the intersection of these fields!
 
