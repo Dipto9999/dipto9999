@@ -65,8 +65,8 @@ My name is Muntakim and I'm passionate about developing innovative technologies 
         <a href="https://twitter.com/Dipto9999">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Muntakim9999" title="Twitter" style="border: 1px solid #000000; margin: 10px;">
         </a>
-        <a href="https://www.instagram.com/dipto9999/">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dipto9999/" title="Instagram" style="border: 1px solid #000000; margin: 10px;">
+        <a href="https://www.instagram.com/dipto9999/profilecard/?igsh=MXd3ZDdwbDZwczBzcw%3D%3D">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dipto9999/profilecard/?igsh=MXd3ZDdwbDZwczBzcw%3D%3D" title="Instagram" style="border: 1px solid #000000; margin: 10px;">
         </a>
         <a href="mailto:dipto100@alum.ubc.ca">
             <img src="https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dipto100@alum.ubc.ca" title="Gmail" style="border: 1px solid #000000; margin: 10px;">
