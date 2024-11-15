@@ -30,7 +30,7 @@ My name is Muntakim and I'm passionate about developing innovative technologies 
 
 ### Experience and Education
 
-- 🔋 Recently worked as a **Software Applications Engineering Intern** at [TESLA, Inc](https://www.tesla.com/en_eu/megapack).
+- 🔋 Recently worked as a **Software Application Engineering Intern** at [TESLA, Inc](https://www.tesla.com/en_eu/megapack).
 - 🌐 Previously worked as a **Product Coordinator Intern** at [GEOTAB, Inc](https://www.geotab.com/).
 - 🛰️ Contributed as a **Satellite Firmware Developer** on the [ALEASAT Project](https://www.ubcorbit.com/).
 - ⚡ Pursuing a degree in **Electrical Engineering** at the [University of British Columbia](https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/).
