@@ -52,19 +52,19 @@ My name is Muntakim and I'm passionate about developing innovative technologies 
 <div class="post-preview">
     <p align="center">
         <a href="https://devpost.com/Dipto9999">
-            <img src="https://img.shields.io/badge/-440099?style=for-the-badge&logo=devpost&logoColor=white&link=https://devpost.com/Dipto9999" title="Devpost" style="border: 1px solid #000000; margin: 10px;">
+            <img src="https://img.shields.io/badge/-440099?style=for-the-badge&logo=devpost&logoColor=white&link=https://devpost.com/Dipto9999" title="Devpost" style="border: 1px solid #000000;">
         </a>
         <a href="https://www.goodreads.com/user/show/153601337-muntakim-rahman">
-            <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=Goodreads&logoColor=white&link=https://www.goodreads.com/user/show/153601337-muntakim-rahman" title="Goodreads" style="border: 1px solid #000000; margin: 10px;">
+            <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=Goodreads&logoColor=white&link=https://www.goodreads.com/user/show/153601337-muntakim-rahman" title="Goodreads" style="border: 1px solid #000000;">
         </a>
         <a href="https://www.linkedin.com/in/muntakim-rahman/">
-            <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muntakim-rahman/" title="Linkedin" style="border: 1px solid #000000; margin: 10px;">
+            <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muntakim-rahman/" title="Linkedin" style="border: 1px solid #000000;">
         </a>
         <a href="https://x.com/Dipto9999">
-            <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white&link=https://x.com/Dipto9999" title="X" style="border: 1px solid #000000; margin: 10px;">
+            <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white&link=https://x.com/Dipto9999" title="X" style="border: 1px solid #000000;">
         </a>
         <a href="https://www.instagram.com/dipto9999/profilecard/?igsh=MXd3ZDdwbDZwczBzcw%3D%3D">
-            <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dipto9999/profilecard/?igsh=MXd3ZDdwbDZwczBzcw%3D%3D" title="Instagram" style="border: 1px solid #000000; margin: 10px;">
+            <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dipto9999/profilecard/?igsh=MXd3ZDdwbDZwczBzcw%3D%3D" title="Instagram" style="border: 1px solid #000000;">
         </a>
     </p>
     <p align="center">
