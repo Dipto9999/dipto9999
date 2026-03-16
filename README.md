@@ -1,6 +1,6 @@
 # Hello! Welcome to my GitHub! 🙋🏽‍♂️
 
-[![Header](Images/Banner_2024.png "Header")](https://www.linkedin.com/in/muntakim-rahman/)
+[![Header](Images/Banner_2026.png "Header")](https://www.linkedin.com/in/muntakim-rahman/)
 
 <!-- **Dipto9999/dipto9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -30,7 +30,7 @@ My name is Muntakim and I'm passionate about developing innovative technologies 
 
 ### Experience and Education
 
-- 🔋 Recently worked as a **Software Application Engineering Intern** at [TESLA, Inc](https://www.tesla.com/en_eu/megapack).
+- 🔋 Recently worked as an **Application Engineering Intern** at [TESLA, Inc](https://www.tesla.com/en_eu/megapack).
 - 🌐 Previously worked as a **Product Coordinator Intern** at [GEOTAB, Inc](https://www.geotab.com/).
 - 🛰️ Contributed as a **Satellite Firmware Developer** on the [ALEASAT Project](https://www.ubcorbit.com/).
 - ⚡ Pursuing a degree in **Electrical Engineering** at the [University of British Columbia](https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/).
@@ -39,6 +39,8 @@ My name is Muntakim and I'm passionate about developing innovative technologies 
 
 - ↻ [**Stock Portfolio**](https://github.com/Dipto9999/Stock_Price_Correlations)
 - ↻ [**Electrical Company**](https://github.com/Dipto9999/Electrical_Company)
+
+**These projects have been on hiatus for many years now. I am considering using an AI Agent to speedrun my ideas.**
 
 ## Interests and Hobbies ✨
 
