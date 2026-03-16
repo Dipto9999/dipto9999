@@ -40,7 +40,7 @@ My name is Muntakim and I'm passionate about developing innovative technologies 
 - ↻ [**Stock Portfolio**](https://github.com/Dipto9999/Stock_Price_Correlations)
 - ↻ [**Electrical Company**](https://github.com/Dipto9999/Electrical_Company)
 
-**These projects have been on hiatus for many years now. I am considering using an AI Agent to speedrun my ideas.**
+*These projects have been on hiatus for many years now. I am considering using an AI Agent to speedrun my ideas.*
 
 ## Interests and Hobbies ✨
 
