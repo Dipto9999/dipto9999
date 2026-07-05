@@ -25,13 +25,13 @@
 
 <img align = "right" src = "Images/Circuit_Board.jpg" width = 200 height = 150/>
 
-My name is Muntakim and I'm passionate about developing innovative technologies that integrate software and hardware. My experiences are in data science and embedded systems; I love working on projects that leverage the intersection of these fields!
+My name is Muntakim and I'm passionate about developing innovative technologies that integrate software and hardware. Even in this age of AI, I think the most promising sector to build in is energy. My experiences are in data science and embedded systems; I love working on projects that leverage the intersection of these fields!
 
 
 ### Experience and Education
 
-- 🔋 Recently worked as an **Application Engineering Intern** at [TESLA, Inc](https://www.tesla.com/en_eu/megapack).
-- 🌐 Previously worked as a **Product Coordinator Intern** at [GEOTAB, Inc](https://www.geotab.com/).
+- 🔋 Working as an **Application Engineer** at [TESLA, Inc](https://www.tesla.com/en_eu/megapack).
+- 🏃‍♂️ Designed [PaceWatch](https://www.pacewatch.ca), a marathon tracking system for participants.
 - 🛰️ Contributed as a **Satellite Firmware Developer** on the [ALEASAT Project](https://www.ubcorbit.com/).
 - ⚡ Completed a degree in **Electrical Engineering** at the [University of British Columbia](https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/).
 
